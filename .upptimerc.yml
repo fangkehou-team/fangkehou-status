@@ -5,10 +5,13 @@ repo: fangkehou_status # The name of this repository
 sites:
   - name: Home 主页
     url: https://www.fangkehou.eu.org
+    maxResponseTime: 5000
   - name: Blog博客
     url: https://blog.fangkehou.eu.org
+    maxResponseTime: 5000
   - name: Gravatar 代理
     url: https://gravatar.fangkehou.eu.org
+    maxResponseTime: 5000
   
 
 status-website:
