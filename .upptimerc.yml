@@ -6,12 +6,18 @@ sites:
   - name: Home 主页
     url: https://www.fangkehou.eu.org
     maxResponseTime: 5000
+    headers:
+      - "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
   - name: Blog博客
     url: https://blog.fangkehou.eu.org
     maxResponseTime: 5000
+    headers:
+      - "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
   - name: Gravatar 代理
     url: https://gravatar.fangkehou.eu.org
     maxResponseTime: 5000
+    headers:
+      - "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0"
   
 
 status-website:
