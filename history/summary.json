@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.fangkehou.eu.org",
     "slug": "home",
     "status": "down",
-    "uptime": "4.93%",
-    "uptimeDay": "4.93%",
-    "uptimeWeek": "4.93%",
-    "uptimeMonth": "4.93%",
-    "uptimeYear": "4.93%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 348,
+    "timeDay": 348,
+    "timeWeek": 348,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-07-22": 0
+      "2022-07-22": 13
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/blog.fangkehou.eu.org",
     "slug": "blog",
     "status": "down",
-    "uptime": "13.96%",
-    "uptimeDay": "13.96%",
-    "uptimeWeek": "13.96%",
-    "uptimeMonth": "13.96%",
-    "uptimeYear": "13.96%",
-    "time": 472,
-    "timeDay": 472,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2022-07-22": 0
+      "2022-07-22": 13
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/gravatar.fangkehou.eu.org",
     "slug": "gravatar",
     "status": "down",
-    "uptime": "11.01%",
-    "uptimeDay": "11.01%",
-    "uptimeWeek": "11.01%",
-    "uptimeMonth": "11.01%",
-    "uptimeYear": "11.01%",
-    "time": 731,
-    "timeDay": 731,
-    "timeWeek": 731,
-    "timeMonth": 731,
-    "timeYear": 731,
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 835,
+    "timeDay": 835,
+    "timeWeek": 835,
+    "timeMonth": 835,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2022-07-22": 0
+      "2022-07-22": 13
     }
   }
 ]
