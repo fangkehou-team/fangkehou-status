@@ -1,31 +1,105 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: fangkehou-team # Your GitHub organization or username, where this repository lives
+repo: fangkehou_status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Home 主页
+    url: https://www.fangkehou.eu.org
+  - name: Blog博客
+    url: https://blog.fangkehou.eu.org
+  - name: Gravatar 代理
+    url: https://gravatar.fangkehou.eu.org
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.fangkehou.eu.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: fangkehou 网站监控
+  introTitle: "fangkehou 网页状态监控"
+  introMessage: "本页面记录 fangkehou 各页面运行状态。本页面基于Github构建，搭建请参考[**这里**](https://github.com/upptime/upptime)"
   navbar:
-    - title: Status
+    - title: 运行状态
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: 主页
+      href: https://www.fangkehou.eu.org
+i18n:
+  activeIncidents: 已下线
+  incidentReport: "错误报告: #$NUMBER  →"
+  activeIncidentSummary: 在 $DATE 被创建，经历了 $POSTS 次处理
+  incidentTitle: "错误报告: $NUMBER" 
+  incidentDetails: 详情
+  incidentFixed: 已修复
+  incidentOngoing: 正在进行中
+  incidentOpenedAt: 创建时间
+  incidentClosedAt: 回复时间
+  incidentSubscribe: 订阅更新
+  incidentViewOnGitHub: 在github上查看
+  incidentCommentSummary: 在 $DATE 时被 $AUTHOR 处理
+  incidentBack: ← 返回
+  pastIncidents: 错误历史
+  pastIncidentsResolved: 在 $MINUTES 分钟内被解决，其间经历了 $POSTS 次处理
+  overallUptime: "整体在线率: $UPTIME"
+  overallUptimeTitle: 整体在线率
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应时间
+  sevelDayResponseTime: 七天内响应时间
+  responseTimeMs: 响应时间 (ms)
+  loading: 加载中
+  navGitHub: GitHub
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: 已触发DDOS保护
+  rateLimitExceededIntro: 你已经达到了每小时访问上限, 请等待解封，或者添加你自己的 GitHub Personal Access Token 继续访问。
+  rateLimitExceededWhatDoesErrorMean: 这意味着什么?
+  rateLimitExceededErrorMeaning: 这个网站依托 GitHub API 获取服务器信息。 默认情况下, 每个IP每小时允许 60 个请求, 你已经使用完了。
+  rateLimitExceededErrorHowCanFix: 我如何才能修复这个错误?
+  rateLimitExceededErrorFix: 你需要等待解封， 或者你也可以添加自己的 GitHub Personal Access Token, 以解锁每小时 5,000 次请求.
+  rateLimitExceededGeneratePAT: 了解如何生成Personal Access Token
+  rateLimitExceededHasSet: 你已经设置好了Personal Access Token.
+  rateLimitExceededRemoveToken: 删除 token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: 复制并粘贴你的 token
+  rateLimitExceededSaveToken: 保存 token
+  errorTitle: 出错了
+  errorIntro: 获取服务器状态信息失败
+  errorText: 你可以过几分钟再试一下
+  errorHome: 回到主页
+  pastScheduledMaintenance: 维护完成
+  scheduledMaintenance: 计划维护
+  scheduledMaintenanceSummaryStarted: 从 $DATE 开始执行并消耗了 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 从 $DATE 开始执行并消耗了 $DURATION 分钟
+  startedAt: 开始于
+  startsAt: 开始于
+  duration: 响应时间
+  durationMin: $DURATION 分钟
+  incidentCompleted: 成功
+  incidentScheduled: 等待中
+  url: "URL"
+  status: "状态"
+  history: "历史"
+  up: "🟩 在线"
+  degraded: "🟨 超时"
+  down: "🟥 下线"
+  responseTimeGraphAlt: "响应时间图表"
+  ms: "ms"
+  responseTime: "响应时间"
+  responseTimeDay: "日均响应时间"
+  responseTimeWeek: "周均响应时间"
+  responseTimeMonth: "月均响应时间"
+  responseTimeYear: "年均响应时间"
+  uptime: "在线率"
+  uptimeDay: "日均在线率"
+  uptimeWeek: "周均在线率"
+  uptimeMonth: "月均在线率"
+  uptimeYear: "年均在线率"
+  liveStatus: "在线统计"
+  liveStatusHtmlComment: "<!--在线统计-->"
+  allSystemsOperational: "🟩 系统运转正常"
+  degradedPerformance: "🟨 响应超时"
+  completeOutage: "🟥 全部异常"
+  partialOutage: "🟧 部分异常"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
