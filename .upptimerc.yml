@@ -27,6 +27,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   apiBaseUrl: https://api.gp.hokago.eu.org
+  userContentBaseUrl: https://usc.gp.hokago.eu.org
   name: fangkehou 网站监控
   introTitle: "fangkehou 网页状态监控"
   introMessage: "本页面记录 fangkehou 各页面运行状态。本页面基于Github构建，搭建请参考[**这里**](https://github.com/upptime/upptime)"
