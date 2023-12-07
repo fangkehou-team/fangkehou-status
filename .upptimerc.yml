@@ -26,6 +26,7 @@ status-website:
   cname: status.fangkehou.eu.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  apiBaseUrl: https://api.gp.hokago.eu.org
   name: fangkehou 网站监控
   introTitle: "fangkehou 网页状态监控"
   introMessage: "本页面记录 fangkehou 各页面运行状态。本页面基于Github构建，搭建请参考[**这里**](https://github.com/upptime/upptime)"
@@ -58,7 +59,7 @@ i18n:
   responseTimeMs: 响应时间 (ms)
   loading: 加载中
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: 网站在 [open source]($REPO) 开源, powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: 已触发DDOS保护
   rateLimitExceededIntro: 你已经达到了每小时访问上限, 请等待解封，或者添加你自己的 GitHub Personal Access Token 继续访问。
   rateLimitExceededWhatDoesErrorMean: 这意味着什么?
