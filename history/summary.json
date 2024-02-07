@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fangkehou.eu.org.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "32.33%",
+    "uptime": "32.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "16.57%",
+    "uptimeYear": "16.85%",
     "time": 1912,
-    "timeDay": 652,
-    "timeWeek": 1039,
+    "timeDay": 748,
+    "timeWeek": 1033,
     "timeMonth": 884,
-    "timeYear": 1781,
+    "timeYear": 1772,
     "dailyMinutesDown": {
       "2024-02-04": 17,
       "2023-12-08": 25,
@@ -320,8 +320,7 @@
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
-      "2023-02-08": 1440,
-      "2023-02-07": 1440
+      "2023-02-08": 1440
     }
   },
   {
@@ -330,16 +329,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "32.34%",
+    "uptime": "32.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.57%",
-    "time": 1829,
-    "timeDay": 474,
-    "timeWeek": 912,
-    "timeMonth": 765,
-    "timeYear": 1575,
+    "uptimeYear": "16.85%",
+    "time": 1827,
+    "timeDay": 461,
+    "timeWeek": 901,
+    "timeMonth": 736,
+    "timeYear": 1564,
     "dailyMinutesDown": {
       "2023-12-07": 795,
       "2023-12-06": 1440,
@@ -643,8 +642,7 @@
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
-      "2023-02-08": 1440,
-      "2023-02-07": 1440
+      "2023-02-08": 1440
     }
   },
   {
@@ -653,15 +651,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.hokago.eu.org.ico",
     "slug": "gravatar",
     "status": "up",
-    "uptime": "24.02%",
+    "uptime": "24.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.57%",
-    "time": 511,
-    "timeDay": 357,
-    "timeWeek": 308,
-    "timeMonth": 301,
+    "uptimeYear": "16.85%",
+    "time": 448,
+    "timeDay": 276,
+    "timeWeek": 283,
+    "timeMonth": 304,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2023-12-07": 795,
@@ -966,8 +964,7 @@
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
-      "2023-02-08": 1440,
-      "2023-02-07": 1440
+      "2023-02-08": 1440
     }
   }
 ]
