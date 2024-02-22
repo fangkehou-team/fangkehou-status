@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fangkehou.eu.org.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "34.09%",
+    "uptime": "34.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "20.68%",
-    "time": 1779,
-    "timeDay": 634,
-    "timeWeek": 780,
-    "timeMonth": 870,
-    "timeYear": 1526,
+    "uptimeYear": "20.96%",
+    "time": 1773,
+    "timeDay": 718,
+    "timeWeek": 758,
+    "timeMonth": 869,
+    "timeYear": 1509,
     "dailyMinutesDown": {
       "2024-02-04": 17,
       "2023-12-08": 25,
@@ -305,8 +305,7 @@
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 1440
+      "2023-02-23": 1440
     }
   },
   {
@@ -315,16 +314,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "34.09%",
+    "uptime": "34.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.68%",
-    "time": 1660,
-    "timeDay": 900,
-    "timeWeek": 721,
-    "timeMonth": 790,
-    "timeYear": 1393,
+    "uptimeYear": "20.96%",
+    "time": 1655,
+    "timeDay": 505,
+    "timeWeek": 681,
+    "timeMonth": 784,
+    "timeYear": 1387,
     "dailyMinutesDown": {
       "2023-12-07": 795,
       "2023-12-06": 1440,
@@ -613,8 +612,7 @@
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 1440
+      "2023-02-23": 1440
     }
   },
   {
@@ -623,16 +621,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.hokago.eu.org.ico",
     "slug": "gravatar",
     "status": "up",
-    "uptime": "25.99%",
+    "uptime": "26.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.68%",
-    "time": 318,
-    "timeDay": 163,
-    "timeWeek": 261,
-    "timeMonth": 309,
-    "timeYear": 318,
+    "uptimeYear": "20.96%",
+    "time": 320,
+    "timeDay": 458,
+    "timeWeek": 295,
+    "timeMonth": 317,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2023-12-07": 795,
       "2023-12-06": 1440,
@@ -921,8 +919,7 @@
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 1440
+      "2023-02-23": 1440
     }
   }
 ]
