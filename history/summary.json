@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fangkehou.eu.org.ico",
     "slug": "home",
     "status": "down",
-    "uptime": "38.05%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "38.04%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "30.53%",
     "time": 1462,
     "timeDay": 581,
@@ -16,7 +16,8 @@
     "timeMonth": 1819,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2024-03-28": 1,
+      "2024-03-29": 71,
+      "2024-03-28": 3,
       "2024-02-04": 17,
       "2023-12-08": 25,
       "2023-12-07": 758,
@@ -270,8 +271,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -280,11 +280,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "38.05%",
+    "uptime": "38.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.53%",
+    "uptimeYear": "30.55%",
     "time": 1352,
     "timeDay": 1083,
     "timeWeek": 949,
@@ -542,8 +542,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -552,11 +551,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.hokago.eu.org.ico",
     "slug": "gravatar",
     "status": "up",
-    "uptime": "30.43%",
+    "uptime": "30.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "30.53%",
+    "uptimeYear": "30.55%",
     "time": 310,
     "timeDay": 181,
     "timeWeek": 300,
@@ -814,8 +813,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   }
 ]
