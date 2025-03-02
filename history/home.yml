@@ -1,7 +1,7 @@
 url: https://www.fangkehou.eu.org
-status: up
-code: 200
-responseTime: 1144
-lastUpdated: 2025-03-01T23:13:58.831Z
+status: degraded
+code: 403
+responseTime: 5302
+lastUpdated: 2025-03-02T09:36:39.990Z
 startTime: 2022-07-22T14:38:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
