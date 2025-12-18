@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fangkehou.eu.org.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "69.30%",
+    "uptime": "69.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.85%",
-    "time": 993,
-    "timeDay": 302,
-    "timeWeek": 851,
-    "timeMonth": 877,
-    "timeYear": 961,
+    "time": 992,
+    "timeDay": 847,
+    "timeWeek": 847,
+    "timeMonth": 869,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2025-12-11": 34,
       "2025-11-18": 129,
@@ -38,8 +38,7 @@
       "2025-01-25": 19,
       "2025-01-09": 35,
       "2025-01-08": 21,
-      "2025-01-06": 21,
-      "2024-12-18": 29
+      "2025-01-06": 21
     }
   },
   {
@@ -48,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "69.29%",
+    "uptime": "69.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.84%",
-    "time": 1226,
-    "timeDay": 1982,
-    "timeWeek": 1193,
-    "timeMonth": 1098,
+    "time": 1227,
+    "timeDay": 1362,
+    "timeWeek": 1266,
+    "timeMonth": 1104,
     "timeYear": 1178,
     "dailyMinutesDown": {
       "2025-12-11": 32,
@@ -82,8 +81,7 @@
       "2025-01-25": 19,
       "2025-01-09": 35,
       "2025-01-08": 21,
-      "2025-01-06": 21,
-      "2024-12-18": 28
+      "2025-01-06": 21
     }
   },
   {
@@ -92,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.hokago.eu.org.ico",
     "slug": "gravatar",
     "status": "up",
-    "uptime": "65.57%",
+    "uptime": "65.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 460,
-    "timeDay": 505,
-    "timeWeek": 931,
-    "timeMonth": 528,
-    "timeYear": 484,
+    "time": 461,
+    "timeDay": 741,
+    "timeWeek": 1006,
+    "timeMonth": 538,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2025-11-18": 96
     }
