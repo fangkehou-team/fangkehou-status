@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fangkehou.eu.org.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "69.83%",
+    "uptime": "69.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.86%",
-    "time": 964,
-    "timeDay": 647,
-    "timeWeek": 839,
-    "timeMonth": 927,
-    "timeYear": 925,
+    "time": 962,
+    "timeDay": 819,
+    "timeWeek": 842,
+    "timeMonth": 911,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2025-12-11": 34,
       "2025-11-18": 129,
@@ -35,8 +35,7 @@
       "2025-02-10": 58,
       "2025-02-05": 19,
       "2025-02-04": 20,
-      "2025-01-25": 19,
-      "2025-01-09": 35
+      "2025-01-25": 19
     }
   },
   {
@@ -45,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "69.83%",
+    "uptime": "69.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.85%",
-    "time": 1225,
-    "timeDay": 869,
-    "timeWeek": 936,
-    "timeMonth": 1095,
+    "uptimeYear": "99.86%",
+    "time": 1224,
+    "timeDay": 1047,
+    "timeWeek": 934,
+    "timeMonth": 1083,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2025-12-11": 32,
@@ -76,8 +75,7 @@
       "2025-02-14": 26,
       "2025-02-10": 56,
       "2025-02-04": 20,
-      "2025-01-25": 19,
-      "2025-01-09": 35
+      "2025-01-25": 19
     }
   },
   {
@@ -86,15 +84,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.hokago.eu.org.ico",
     "slug": "gravatar",
     "status": "up",
-    "uptime": "66.16%",
+    "uptime": "66.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 449,
-    "timeDay": 528,
-    "timeWeek": 477,
-    "timeMonth": 533,
+    "timeDay": 204,
+    "timeWeek": 422,
+    "timeMonth": 523,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2025-11-18": 96
