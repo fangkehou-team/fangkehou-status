@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fangkehou.eu.org.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "70.66%",
+    "uptime": "70.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
-    "time": 1024,
-    "timeDay": 994,
-    "timeWeek": 3814,
-    "timeMonth": 1734,
-    "timeYear": 1012,
+    "time": 1025,
+    "timeDay": 1336,
+    "timeWeek": 901,
+    "timeMonth": 1748,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2026-02-06": 56,
       "2025-12-11": 34,
@@ -31,8 +31,7 @@
       "2025-03-23": 18,
       "2025-03-19": 23,
       "2025-03-06": 19,
-      "2025-02-27": 24,
-      "2025-02-14": 26
+      "2025-02-27": 24
     }
   },
   {
@@ -41,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "70.66%",
-    "uptimeDay": "96.21%",
+    "uptime": "70.68%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.85%",
     "time": 1245,
-    "timeDay": 9527,
-    "timeWeek": 3969,
-    "timeMonth": 1989,
+    "timeDay": 915,
+    "timeWeek": 3987,
+    "timeMonth": 1980,
     "timeYear": 1230,
     "dailyMinutesDown": {
       "2026-02-12": 55,
@@ -72,8 +71,7 @@
       "2025-03-23": 18,
       "2025-03-19": 23,
       "2025-03-06": 19,
-      "2025-02-27": 24,
-      "2025-02-14": 26
+      "2025-02-27": 24
     }
   },
   {
@@ -82,16 +80,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.hokago.eu.org.ico",
     "slug": "gravatar",
     "status": "up",
-    "uptime": "67.10%",
+    "uptime": "67.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 466,
-    "timeDay": 434,
-    "timeWeek": 372,
-    "timeMonth": 633,
-    "timeYear": 496,
+    "timeDay": 323,
+    "timeWeek": 374,
+    "timeMonth": 489,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2026-01-30": 32,
       "2025-11-18": 96
