@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fangkehou.eu.org.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "70.96%",
+    "uptime": "70.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.88%",
     "time": 1034,
-    "timeDay": 1651,
-    "timeWeek": 914,
-    "timeMonth": 1883,
-    "timeYear": 1032,
+    "timeDay": 748,
+    "timeWeek": 918,
+    "timeMonth": 1881,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2026-02-17": 58,
       "2026-02-06": 56,
@@ -31,8 +31,7 @@
       "2025-03-26": 5,
       "2025-03-23": 18,
       "2025-03-19": 23,
-      "2025-03-06": 19,
-      "2025-02-27": 24
+      "2025-03-06": 19
     }
   },
   {
@@ -41,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "70.95%",
+    "uptime": "70.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.85%",
-    "time": 1245,
-    "timeDay": 1100,
-    "timeWeek": 1096,
-    "timeMonth": 2043,
+    "time": 1246,
+    "timeDay": 1137,
+    "timeWeek": 1093,
+    "timeMonth": 2039,
     "timeYear": 1241,
     "dailyMinutesDown": {
       "2026-02-12": 55,
@@ -71,8 +70,7 @@
       "2025-03-26": 4,
       "2025-03-23": 18,
       "2025-03-19": 23,
-      "2025-03-06": 19,
-      "2025-02-27": 24
+      "2025-03-06": 19
     }
   },
   {
@@ -81,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.hokago.eu.org.ico",
     "slug": "gravatar",
     "status": "up",
-    "uptime": "67.42%",
+    "uptime": "67.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 468,
-    "timeDay": 701,
-    "timeWeek": 493,
-    "timeMonth": 560,
-    "timeYear": 497,
+    "time": 471,
+    "timeDay": 1877,
+    "timeWeek": 671,
+    "timeMonth": 602,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2026-01-30": 32,
       "2025-11-18": 96
