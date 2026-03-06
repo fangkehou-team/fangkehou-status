@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fangkehou.eu.org.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "71.11%",
+    "uptime": "71.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.87%",
-    "time": 1036,
-    "timeDay": 790,
-    "timeWeek": 811,
-    "timeMonth": 1933,
-    "timeYear": 1007,
+    "time": 1037,
+    "timeDay": 1079,
+    "timeWeek": 852,
+    "timeMonth": 1947,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2026-02-27": 78,
       "2026-02-17": 58,
@@ -31,8 +31,7 @@
       "2025-03-27": 75,
       "2025-03-26": 5,
       "2025-03-23": 18,
-      "2025-03-19": 23,
-      "2025-03-06": 19
+      "2025-03-19": 23
     }
   },
   {
@@ -41,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "71.10%",
+    "uptime": "71.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.84%",
-    "time": 1247,
-    "timeDay": 923,
-    "timeWeek": 1023,
-    "timeMonth": 1881,
+    "time": 1246,
+    "timeDay": 952,
+    "timeWeek": 1000,
+    "timeMonth": 1886,
     "timeYear": 1243,
     "dailyMinutesDown": {
       "2026-02-27": 76,
@@ -71,8 +70,7 @@
       "2025-03-27": 75,
       "2025-03-26": 4,
       "2025-03-23": 18,
-      "2025-03-19": 23,
-      "2025-03-06": 19
+      "2025-03-19": 23
     }
   },
   {
@@ -81,15 +79,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.hokago.eu.org.ico",
     "slug": "gravatar",
     "status": "up",
-    "uptime": "67.60%",
+    "uptime": "67.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 473,
-    "timeDay": 648,
-    "timeWeek": 631,
-    "timeMonth": 494,
+    "timeDay": 268,
+    "timeWeek": 401,
+    "timeMonth": 495,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2026-01-30": 32,
