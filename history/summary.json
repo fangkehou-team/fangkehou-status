@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fangkehou.eu.org.ico",
     "slug": "home",
     "status": "up",
-    "uptime": "71.39%",
+    "uptime": "71.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.87%",
-    "time": 1039,
-    "timeDay": 690,
-    "timeWeek": 935,
-    "timeMonth": 909,
-    "timeYear": 1003,
+    "time": 1040,
+    "timeDay": 570,
+    "timeWeek": 909,
+    "timeMonth": 886,
+    "timeYear": 1002,
     "dailyMinutesDown": {
       "2026-02-27": 78,
       "2026-02-17": 58,
@@ -30,8 +30,7 @@
       "2025-04-02": 30,
       "2025-03-27": 75,
       "2025-03-26": 5,
-      "2025-03-23": 18,
-      "2025-03-19": 23
+      "2025-03-23": 18
     }
   },
   {
@@ -40,15 +39,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "71.38%",
+    "uptime": "71.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.82%",
     "time": 1277,
-    "timeDay": 914,
-    "timeWeek": 996,
-    "timeMonth": 1560,
+    "timeDay": 974,
+    "timeWeek": 1038,
+    "timeMonth": 1561,
     "timeYear": 1285,
     "dailyMinutesDown": {
       "2026-03-10": 119,
@@ -70,8 +69,7 @@
       "2025-04-02": 30,
       "2025-03-27": 75,
       "2025-03-26": 4,
-      "2025-03-23": 18,
-      "2025-03-19": 23
+      "2025-03-23": 18
     }
   },
   {
@@ -80,15 +78,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gravatar.hokago.eu.org.ico",
     "slug": "gravatar",
     "status": "up",
-    "uptime": "67.91%",
+    "uptime": "67.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 476,
-    "timeDay": 400,
-    "timeWeek": 398,
-    "timeMonth": 512,
+    "timeDay": 230,
+    "timeWeek": 379,
+    "timeMonth": 486,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2026-03-11": 26,
