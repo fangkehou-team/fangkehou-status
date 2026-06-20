@@ -6,15 +6,15 @@
     "slug": "home",
     "status": "up",
     "uptime": "73.27%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 986,
-    "timeDay": 1227,
-    "timeWeek": 906,
-    "timeMonth": 994,
-    "timeYear": 1021,
+    "uptimeDay": "86.99%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.82%",
+    "time": 985,
+    "timeDay": 895,
+    "timeWeek": 867,
+    "timeMonth": 978,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2025-10-28": 45,
       "2025-11-18": 129,
@@ -28,7 +28,7 @@
       "2026-05-07": 80,
       "2026-05-06": 15,
       "2026-05-17": 91,
-      "2026-06-20": 0
+      "2026-06-20": 187
     }
   },
   {
@@ -36,16 +36,16 @@
     "url": "https://blog.fangkehou.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/blog.fangkehou.eu.org.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "73.27%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 1247,
-    "timeDay": 729,
-    "timeWeek": 859,
-    "timeMonth": 1008,
+    "status": "up",
+    "uptime": "73.26%",
+    "uptimeDay": "87.01%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.77%",
+    "time": 1249,
+    "timeDay": 915,
+    "timeWeek": 906,
+    "timeMonth": 1016,
     "timeYear": 1312,
     "dailyMinutesDown": {
       "2025-09-25": 39,
@@ -64,7 +64,7 @@
       "2026-05-07": 80,
       "2026-05-06": 15,
       "2026-05-17": 91,
-      "2026-06-20": 0
+      "2026-06-20": 187
     }
   },
   {
